@@ -22,3 +22,5 @@ operadores/Igualdade.java
  operadores.Igualdade
 fors/Whiles.java
  fors.Whiles
+exercicios/IntStreams.java
+ exercicios.IntStreams
