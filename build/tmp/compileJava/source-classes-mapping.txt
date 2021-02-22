@@ -14,11 +14,11 @@ strings/BuilderString.java
  strings.BuilderString
 strings/StringFormat.java
  strings.StringFormat
-fors/Fors.java
- fors.Fors
+operadores/Incremento.java
+ operadores.Incremento
 operadores/Matematicos.java
  operadores.Matematicos
 operadores/Igualdade.java
  operadores.Igualdade
-operadores/Incremento.java
- operadores.Incremento
+fors/Fors.java
+ fors.Fors
