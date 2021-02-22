@@ -8,8 +8,8 @@ operadores/Logicos.java
  operadores.Logicos
 ifs/IFS.java
  ifs.IFS
-fors/Whiles.java
- fors.Whiles
+fors/Fors.java
+ fors.Fors
 strings/BuilderString.java
  strings.BuilderString
 strings/StringFormat.java
@@ -20,5 +20,5 @@ operadores/Matematicos.java
  operadores.Matematicos
 operadores/Igualdade.java
  operadores.Igualdade
-fors/Fors.java
- fors.Fors
+fors/Whiles.java
+ fors.Whiles
